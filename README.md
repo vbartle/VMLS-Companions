@@ -7,5 +7,5 @@ You can find notebooks with implementations in both Python and Julia that are di
 This is best perused in conjunction to the first degree companion: vmls-book.stanford.edu/vmls-julia-companion.pdf, also provided in this repo. 
 
 To-do:
--Create LaTex content for the Python notebooks, the way the Julia notebooks have.
--Create notebooks for the Prologue and Appendix.
+1. Create LaTex content for the Python notebooks, the way the Julia notebooks have.
+2. Create notebooks for the Prologue and Appendix.
