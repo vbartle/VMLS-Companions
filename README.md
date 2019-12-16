@@ -1,5 +1,11 @@
-# VMLS-Python-Companion
-*This is a companion to the companion for:
+# VMLS-Python-and-Julia-Companion
+*This is a companion to the Julia companion for:
 "Vectors, Matrices, and Least Squares" by Boyd and Vandenberghe. 
 
-This is best perused in conjunction to the first degree companion: vmls-book.stanford.edu/vmls-julia-companion.pdf 
+You can find notebooks with implementations in both Python and Julia that are direct references to the companion.
+
+This is best perused in conjunction to the first degree companion: vmls-book.stanford.edu/vmls-julia-companion.pdf, also provided in this repo. 
+
+To-do:
+-Create LaTex content for the Python notebooks, the way the Julia notebooks have.
+-Create notebooks for the Prologue and Appendix.
