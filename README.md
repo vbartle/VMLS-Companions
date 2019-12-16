@@ -9,3 +9,4 @@ This is best perused in conjunction to the first degree [companion](http://vmls-
 ### To-do:
 1. Create informative content for the Python notebooks, the way the Julia notebooks have.
 2. Create notebooks for the Prologue and Appendix.
+3. Instructions about how to setup a Julia kernel for Jupyter Notebooks. For now please refer to [this](https://datatofish.com/add-julia-to-jupyter/) reference.
