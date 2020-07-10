@@ -1,5 +1,5 @@
 # VMLS-Python-and-Julia-Companion
-*This is a companion to the Julia companion for:
+*This is a companion to the Python and Julia companion for:
 "Vectors, Matrices, and Least Squares" by Boyd and Vandenberghe. Which you can find here: http://vmls-book.stanford.edu/.
 
 You can find notebooks with implementations in both Python and Julia that are direct references to the companion.
